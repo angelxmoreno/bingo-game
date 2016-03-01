@@ -1,6 +1,6 @@
 {
     "name": "bingo-game",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "A Bingo Game for Node",
     "scripts": {
         "test": "bingo_lib=$PWD/lib/ mocha"
@@ -25,7 +25,7 @@
     },
     "homepage": "https://github.com/angelxmoreno/bingo-game#readme",
     "devDependencies": {
-        "bingo-game-tests": "^1.0.0",
+        "bingo-game-tests": "^1.1.0",
         "gulp": "^3.9.1"
     },
     "dependencies": {
