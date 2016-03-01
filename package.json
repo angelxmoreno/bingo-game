@@ -1,7 +1,8 @@
 {
     "name": "bingo-game",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "A Bingo Game for Node",
+    "main": "index.js",
     "scripts": {
         "test": "bingo_lib=$PWD/lib/ mocha"
     },
